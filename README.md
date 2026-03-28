@@ -10,7 +10,7 @@
 
 ## 项目简介
 
-本项目基于 [UCI Concrete Compressive Strength Dataset](http://archive.ics.uci.edu/dataset/165/concrete+compressive+strength)，在进行探索性数据分析（EDA）及主成分分析（PCA）的基础上，采用**多层感知机（MLP）神经网络**对混凝土抗压强度进行预测，并以**多元线性回归（OLS）**作为基准模型进行对比。
+本项目基于 [UCI Concrete Compressive Strength Dataset](http://archive.ics.uci.edu/dataset/165/concrete+compressive+strength)，在进行数据分析（EDA）及主成分分析（PCA）的基础上，采用**多层感知机（MLP）神经网络**对混凝土抗压强度进行预测，并以**多元线性回归（OLS）** 作为基准模型进行对比。
 
 传统抗压强度检测依赖物理试验，存在成本高、周期长、缺乏自适应预测能力等问题。本研究利用神经网络模型自主学习混凝土多组分配合比的非线性特征，提高预测精度，为工程配合比设计与强度快速预测提供可靠的理论支持。
 

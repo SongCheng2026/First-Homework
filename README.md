@@ -36,8 +36,6 @@
 .
 ├── README.md                          # 项目说明文件
 ├── BC25219017-宋城啸-第一次作业.ipynb  # 主作业 Notebook
-├── concrete_regression (1).ipynb      # 回归分析参考 Notebook
-├── demo.ipynb                         # 演示 Notebook
 ├── Concrete_Data_Yeh.csv              # 数据集
 └── Homework1.pdf                      # 作业说明文档
 ```
